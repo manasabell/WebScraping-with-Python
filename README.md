@@ -6,9 +6,9 @@ Implementing the web scraping technique in python. Each and every website has a 
 
 ##### Approaches: 
 There are various approaches when it comes to web scraping
-    * Use requests to extract information from structured JSON / XML files
-    * Use requests to extract information from HTML
-    * Automate a browser to retrieve information from HTML
+* Use requests to extract information from structured JSON / XML files
+* Use requests to extract information from HTML
+* Automate a browser to retrieve information from HTML
 
 ##### PreRequisites:
 * Library: Pandas, Beautiful Soup, requests
